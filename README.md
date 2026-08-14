@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d1117,30:1f6feb,65:7c3aed,100:0d1117&text=VYOM%20AGGARWAL&fontSize=56&fontColor=ffffff&fontAlignY=33&desc=robotics%20%C2%B7%20machine%20learning%20%C2%B7%20the%20mathematics%20underneath&descSize=15&descAlignY=53&animation=fadeIn" width="100%" alt="Vyom Aggarwal" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=850&color=58A6FF&center=true&vCenter=true&repeat=true&width=900&height=45&lines=DS/ML+Research+@+MIT,+UCSC;Robotics+Researcher;Data+Science+Developer;Robotics+·+Machine+Learning+·+Math+·+Aerospace+·+Engineering)](https://vyom-aggarwal.github.io/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=850&color=58A6FF&center=true&vCenter=true&repeat=true&width=900&height=45&lines=DS/ML+Research+@+MIT,+UCSC;Sophomore+at+RIHS;Robotics+·+Machine+Learning+·+Math+·+Aerospace+·+Engineering)](https://vyom-aggarwal.github.io/)
 
 <br>
 
@@ -17,7 +17,15 @@
 
 </div>
 
-## ▸ 01 — Telemetry
+## ▸ 01 — About me
+
+I'm a sophomore at **River Islands High School**, dual-enrolled at **San Joaquin Delta College**, with a strong interest in **robotics, reinforcement learning, machine learning research, mathematics, simulation, and the engineering that ties all of it together**.
+
+I like problems that stay interesting after the first correct answer: **Is this number real, or is my instrument lying to me? Which assumption breaks first? What does the system do the moment it does?** That mindset has pushed me toward research-style engineering — learning under failure conditions, robustness and evaluation methodology, and building the software and hardware that makes an idea testable in the first place.
+
+Right now, I'm especially interested in **research in the integration of AI/ML into engineering fields such as Mechatronics and Aerospace Engineering**.
+
+## ▸ 02 — Telemetry
 
 ```text
 ┌─[ RUNTIME ]──────────────────────────────────────────────────┐
@@ -36,7 +44,7 @@
   active objective ▸ fault-recovery-quadruped-rl
 ```
 
-## ▸ 02 — `whoami`
+## ▸ 03 — `whoami`
 
 ```yaml
 name:      Vyom Aggarwal
@@ -53,16 +61,12 @@ interests:
 open_to: [research collaborations, ML internships, arguments about math]
 ```
 
-I like problems that stay interesting **after the first correct answer.**
-
-Most of what I do lands in three overlapping places: **machine learning research** at MIT and UC Santa Cruz, **competitive and recreational mathematics**, and **building the software and hardware** that makes both of those testable. 
-
 > [!NOTE]
 > I'm a sophomore in high school. Everything below is real, reproducible, and linked — please check it.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,50:7c3aed,100:1f6feb&height=2&section=header" width="100%" alt="" />
 
-## ▸ 03 — Experience
+## ▸ 04 — Experience
 
 ### Student Researcher — MIT CSAIL
 Member of the Computer Science and Artificial Intelligence Laboratory, assisting the development of a system that changes the way data can be visualized. The interesting part of the problem sits underneath the interface: what a system has to compute, and how it has to represent what it knows, before a person can look at the result and see something they couldn't see before.
@@ -75,7 +79,7 @@ Conducting an independent research project under the mentorship of Fernanda-Mari
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,50:7c3aed,100:1f6feb&height=2&section=header" width="100%" alt="" />
 
-## ▸ 04 — Active research
+## ▸ 05 — Active research
 
 <div align="center">
 
@@ -124,7 +128,7 @@ Measured against two bounds — **no adaptation** (Baseline A) and **full retrai
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,50:7c3aed,100:1f6feb&height=2&section=header" width="100%" alt="" />
 
 
-## ▸ 05 — Timeline
+## ▸ 06 — Timeline
 
 ```mermaid
 timeline
@@ -145,7 +149,7 @@ timeline
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,50:7c3aed,100:1f6feb&height=2&section=header" width="100%" alt="" />
 
-## ▸ 06 — Toolchain
+## ▸ 07 — Toolchain
 
 <table>
 <tr><td><b>Languages</b></td><td>
@@ -192,7 +196,7 @@ timeline
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,50:7c3aed,100:1f6feb&height=2&section=header" width="100%" alt="" />
 
-## ▸ 07 — Instruments
+## ▸ 08 — Instruments
 
 <div align="center">
 
@@ -229,7 +233,7 @@ timeline
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,50:7c3aed,100:1f6feb&height=2&section=header" width="100%" alt="" />
 
-## ▸ 08 — How I Work
+## ▸ 09 — How I Work
 <br>
 
 ```mermaid
