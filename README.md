@@ -201,15 +201,6 @@ timeline
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vyom-aggarwal&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&icon_color=7C3AED&text_color=8B949E" />
-  <img src="https://github-readme-stats.vercel.app/api?username=vyom-aggarwal&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=graywhite" height="170" alt="GitHub stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vyom-aggarwal&layout=compact&langs_count=8&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyom-aggarwal&layout=compact&langs_count=8&hide_border=true&theme=graywhite" height="170" alt="Top languages" />
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=vyom-aggarwal&hide_border=true&background=0D1117&ring=58A6FF&fire=7C3AED&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&stroke=30363D&sideNums=C9D1D9&currStreakNum=C9D1D9" />
   <img src="https://streak-stats.demolab.com?user=vyom-aggarwal&hide_border=true&theme=graywhite" height="170" alt="Contribution streak" />
 </picture>
