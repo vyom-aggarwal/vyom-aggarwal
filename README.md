@@ -19,11 +19,9 @@
 
 ## ▸ 01 — About me
 
-I'm a sophomore at **River Islands High School**, dual-enrolled at **San Joaquin Delta College**, with a strong interest in **robotics, reinforcement learning, machine learning research, mathematics, simulation, and the engineering that ties all of it together**.
+I'm a sophomore at **River Islands High School**, dual-enrolled at **San Joaquin Delta College**. I specialize in the **integration of AI and machine learning into engineering disciplines — mechatronics and aerospace in particular** — along with the mathematics, simulation, and control that has to hold underneath for that integration to mean anything.
 
-I like problems that stay interesting after the first correct answer: **Is this number real, or is my instrument lying to me? Which assumption breaks first? What does the system do the moment it does?** That mindset has pushed me toward research-style engineering — learning under failure conditions, robustness and evaluation methodology, and building the software and hardware that makes an idea testable in the first place.
-
-Right now, I'm especially interested in **research in the integration of AI/ML into engineering fields such as Mechatronics and Aerospace Engineering**.
+I like problems that stay interesting after the first correct answer: **Is this number real, or is my instrument lying to me? Which assumption breaks first? What does the system do the moment it does?** That's why I work where ML meets hardware. A model that scores well on a benchmark and a model you would trust to run a physical system are not the same object, and the distance between them is where the engineering actually lives.
 
 ## ▸ 02 — Telemetry
 
