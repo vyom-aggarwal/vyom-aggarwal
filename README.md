@@ -177,11 +177,13 @@ timeline
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
 
 </td></tr>
-<tr><td><b>Robotics & CAD</b></td><td>
+<tr><td><b>Mechatronics & CAD</b></td><td>
 
 ![FTC](https://img.shields.io/badge/FIRST%20Tech%20Challenge-F57F17?style=flat-square)
 ![VEX](https://img.shields.io/badge/VEX%20V5-B71C1C?style=flat-square)
 ![CAD](https://img.shields.io/badge/CAD%20%C2%B7%20mechanical%20design-455A64?style=flat-square)
+![Control](https://img.shields.io/badge/control%20systems-1F6FEB?style=flat-square)
+![Simulation](https://img.shields.io/badge/physics%20simulation-0F766E?style=flat-square)
 
 </td></tr>
 <tr><td><b>Writing</b></td><td>
