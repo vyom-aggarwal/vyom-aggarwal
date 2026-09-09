@@ -23,48 +23,9 @@ I'm a sophomore at **River Islands High School**, dual-enrolled at **San Joaquin
 
 I like problems that stay interesting after the first correct answer: **Is this number real, or is my instrument lying to me? Which assumption breaks first? What does the system do the moment it does?** That's why I work where ML meets hardware. A model that scores well on a benchmark and a model you would trust to run a physical system are not the same object, and the distance between them is where the engineering actually lives.
 
-## ▸ 02 — Telemetry
-
-```text
-┌─[ RUNTIME ]──────────────────────────────────────────────────┐
-│  status        █ online — open to research collaborations    │
-│  location      Lathrop, California                           │
-│  grade         sophomore · River Islands HS · class of 2029  │
-│  transcripts   4.86 weighted (HS) · 4.0 unweighted (college) │
-│  labs          MIT · UC Santa Cruz · Lumiere Education       │
-├─[ FOCUS ALLOCATION ]─────────────────────────────────────────┤
-│  robot learning    ███████████████████░░░░░   MIT · UCSC     │
-│  mathematics       ███████████████░░░░░░░░░   AIME · USACO   │
-│  systems & web     ████████████░░░░░░░░░░░░   TS · WebGL     │
-│  hardware & CAD    ████████████████░░░░░░░░   FTC · VEX      │
-│  curiosity         ████████████████████████   uncapped       │
-└──────────────────────────────────────────────────────────────┘
-  active objective ▸ fault-recovery-quadruped-rl
-```
-
-## ▸ 03 — `whoami`
-
-```yaml
-name:      Vyom Aggarwal
-pronouns:  he/him
-age:       15
-role:      student researcher, robot learning
-thesis:    a policy that has never seen failure has no response to it
-
-interests:
-  - teaching robots to make decisions under things going wrong
-  - mathematics, for its own sake
-  - the seam between those two, which is where the research lives
-
-open_to: [research collaborations, ML internships, arguments about math]
-```
-
-> [!NOTE]
-> I'm a sophomore in high school. Everything below is real, reproducible, and linked — please check it.
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,50:7c3aed,100:1f6feb&height=2&section=header" width="100%" alt="" />
 
-## ▸ 04 — Experience
+## ▸ 02 — Experience
 
 ### Student Researcher — MIT CSAIL
 Member of the Computer Science and Artificial Intelligence Laboratory, assisting the development of a system that changes the way data can be visualized. The interesting part of the problem sits underneath the interface: what a system has to compute, and how it has to represent what it knows, before a person can look at the result and see something they couldn't see before.
@@ -77,7 +38,7 @@ Conducting an independent research project under the mentorship of Fernanda-Mari
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,50:7c3aed,100:1f6feb&height=2&section=header" width="100%" alt="" />
 
-## ▸ 05 — Active research
+## ▸ 03 — Active research
 
 <div align="center">
 
@@ -125,29 +86,7 @@ Measured against two bounds — **no adaptation** (Baseline A) and **full retrai
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,50:7c3aed,100:1f6feb&height=2&section=header" width="100%" alt="" />
 
-
-## ▸ 06 — Timeline
-
-```mermaid
-timeline
-    title Roles Throughout My Career
-    2023 : Troop Guide, Boy Scouts of America
-    2024 : Founded Apex STEM
-    2025 : Dual enrollment at San Joaquin Delta College
-         : AMC 8 prep book — TMAS Academy
-         : Captain, FTC Team 36541
-         : Treasurer + programming & CAD, VEX 95330Z
-         : President, RIHS Math Club
-    2026 : Research Fellow, Lumiere Education
-         : Director, Binary Tree
-         : Student Researcher, MIT CSAIL
-         : Student Researcher, UC Santa Cruz AIEA Lab
-         : USACO Silver division
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,50:7c3aed,100:1f6feb&height=2&section=header" width="100%" alt="" />
-
-## ▸ 07 — Toolchain
+## ▸ 04 — Toolchain
 
 <table>
 <tr><td><b>Languages</b></td><td>
@@ -196,7 +135,7 @@ timeline
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,50:7c3aed,100:1f6feb&height=2&section=header" width="100%" alt="" />
 
-## ▸ 08 — Instruments
+## ▸ 05 — Instruments
 
 <div align="center">
 
@@ -217,34 +156,6 @@ timeline
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,50:7c3aed,100:1f6feb&height=2&section=header" width="100%" alt="" />
-
-## ▸ 09 — How I Work
-<br>
-
-```mermaid
-flowchart TD
-    Q["a question worth asking"] --> A["build the smallest apparatus<br/>that could answer it"]
-    A --> N["run it — get a number"]
-    N --> D{"distrust<br/>the number"}
-    D -->|instrument broken| F["fix the instrument"]
-    F --> N
-    D -->|instrument sound| R["a result I can defend"]
-    R --> B["find the assumption<br/>that would break it"]
-    B --> Q
-
-    classDef step fill:#1f6feb,stroke:#58a6ff,stroke-width:1px,color:#ffffff
-    classDef check fill:#7c3aed,stroke:#a78bfa,stroke-width:1px,color:#ffffff
-    classDef fix fill:#b45309,stroke:#fbbf24,stroke-width:1px,color:#ffffff
-    classDef win fill:#0f766e,stroke:#2dd4bf,stroke-width:1px,color:#ffffff
-    class Q,A,N,B step
-    class D check
-    class F fix
-    class R win
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,50:7c3aed,100:1f6feb&height=2&section=header" width="100%" alt="" />
-
-<div align="center">
 
 ## Let's build something.
 
