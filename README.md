@@ -135,27 +135,6 @@ Measured against two bounds — **no adaptation** (Baseline A) and **full retrai
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,50:7c3aed,100:1f6feb&height=2&section=header" width="100%" alt="" />
 
-## ▸ 05 — Instruments
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=vyom-aggarwal&hide_border=true&background=0D1117&ring=58A6FF&fire=7C3AED&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&stroke=30363D&sideNums=C9D1D9&currStreakNum=C9D1D9" />
-  <img src="https://streak-stats.demolab.com?user=vyom-aggarwal&hide_border=true&theme=graywhite" height="170" alt="Contribution streak" />
-</picture>
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vyom-aggarwal&bg_color=0D1117&color=58A6FF&line=7C3AED&point=58A6FF&area=true&area_color=1F6FEB&title_color=58A6FF&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vyom-aggarwal&theme=github-light&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />
-</picture>
-
-<br>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,50:7c3aed,100:1f6feb&height=2&section=header" width="100%" alt="" />
 
 ## Let's build something.
 
