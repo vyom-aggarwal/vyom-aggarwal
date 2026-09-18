@@ -19,7 +19,7 @@
 
 ## ▸ 01 — About me
 
-I'm a sophomore at **River Islands High School**, dual-enrolled at **San Joaquin Delta College**. I specialize in the **integration of AI and machine learning into engineering disciplines — mechatronics and aerospace in particular** — along with the mathematics, simulation, and control that has to hold underneath for that integration to mean anything.
+I'm a sophomore at **River Islands High School** and also dual-enrolled at **San Joaquin Delta College** in their Early College Pathway program. I specialize in the **integration of AI and machine learning into engineering disciplines — mechatronics and aerospace in particular** — along with the mathematics, simulation, and control that has to hold underneath for that integration to mean anything.
 
 I like problems that stay interesting after the first correct answer: **Is this number real, or is my instrument lying to me? Which assumption breaks first? What does the system do the moment it does?** That's why I work where ML meets hardware. A model that scores well on a benchmark and a model you would trust to run a physical system are not the same object, and the distance between them is where the engineering actually lives.
 
