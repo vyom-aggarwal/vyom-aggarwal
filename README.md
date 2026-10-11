@@ -19,12 +19,12 @@ I'm a sophomore at River Islands High School, dual-enrolled at San Joaquin Delta
 ## Research
 
 ### [Oberth Efficiency Atlas](https://github.com/vyom-aggarwal/oberth-efficiency-atlas)
-*Aerospace · finite-burn flybys*
+*Independent Research · Aerospace*
 
 An instantaneous burn at periapsis gets the full Oberth benefit. A real engine burns for minutes to months and keeps only part of it. I measure how much, as η = B<sub>finite</sub> / B<sub>imp</sub>, across six bodies and several propulsion technologies, using a 135,720-run dimensionless sweep. The burn parameter Π = t<sub>b</sub> / τ organizes the results along a near-universal curve: half-efficiency falls at Π ≈ 10–40, and a centered prograde burn loses at most about Π²/96 of its Δv. The repo includes an interactive explorer.
 
 ### [Fault Recovery in RL Locomotion](https://github.com/vyom-aggarwal/fault-recovery-quadruped-rl)
-*UC Santa Cruz · AIEA Lab*
+*UC Santa Cruz AIEA Lab · Robotics*
 
 Can a small correction module, updated during execution, restore a quadruped's gait after an actuator or sensor fault, without retraining the frozen PPO policy underneath? My first result came from the measurement side: the recovery criterion was crediting recoveries that never happened.
 
