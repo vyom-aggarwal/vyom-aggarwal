@@ -1,4 +1,4 @@
-<img src="profile-header.svg" width="100%" alt="Vyom Aggarwal: robotics, machine learning, aerospace" />
+<img src="profile-header.svg" width="100%" alt="Vyom Aggarwal: aerospace, robotics, machine learning" />
 
 DS/ML research at MIT CSAIL and UC Santa Cruz
 
@@ -28,7 +28,7 @@ An instantaneous burn at periapsis gets the full Oberth benefit. A real engine b
 
 Can a small correction module, updated during execution, restore a quadruped's gait after an actuator or sensor fault, without retraining the frozen PPO policy underneath? My first result came from the measurement side: the recovery criterion was crediting recoveries that never happened.
 
-### [Shortcut Learning in Skin Lesion Classifiers](https://github.com/vyom-aggarwal/skin-lesion-shortcut-learning)
+### Shortcut Learning in Skin Lesion Classifiers
 *Lumiere Education · mentored by Fernanda-Maria Lugo-Bolanos, Brown University*
 
 Does a classifier trained on ISIC read the lesion, or does it key off confounders like surgical ink, rulers, and hair?
