@@ -53,6 +53,6 @@ I'm open to research collaborations and AI/ML internships. [aggarw.vyom@gmail.co
 
 <div align="center">
 
-*Anyone can make it work once. Engineering is knowing which assumption breaks first, and what the system does the moment it does.*
+*In simulation, gravity is just a line of code. On the pad, it's an unforgiving arbiter of math.*
 
 </div>
