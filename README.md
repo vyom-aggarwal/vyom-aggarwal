@@ -46,7 +46,7 @@ Does a classifier trained on ISIC read the lesion, or does it key off confounder
 <sub>Student researcher<br>Data visualization</sub>
 </td>
 <td valign="top">
-Interning at CSAIL, where I am assisting in the development of an advanced experimental data analysis tool for researchers.
+Interning at CSAIL, where I am assisting in the development of an AI-powered platform developed to help people explore complex information by organizing data into interactive semantic maps, revealing hidden connections, and discovering meaningful patterns. It combines embeddings, specialized AI agents, and collaborative workflows to turn fragmented knowledge into actionable insights across fields such as science, healthcare, finance, law, and education.
 </td>
 </tr>
 </table>
