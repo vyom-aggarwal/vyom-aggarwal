@@ -28,7 +28,7 @@ An instantaneous burn at periapsis gets the full Oberth benefit. A real engine b
 <sub>UC Santa Cruz AIEA Lab<br>Robotics</sub>
 </td>
 <td valign="top">
-Can a small correction module, updated during execution, restore a quadruped's gait after an actuator or sensor fault, without retraining the frozen PPO policy underneath? My first result came from the measurement side: the recovery criterion was crediting recoveries that never happened.
+This research project develops a reinforcement learning system that enables quadruped robots to maintain stable locomotion despite motor or joint failures by autonomously adapting their gait patterns and timing to changing terrain and damaged actuators.
 </td>
 </tr>
 <tr>
