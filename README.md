@@ -37,7 +37,7 @@ Can a small correction module, updated during execution, restore a quadruped's g
 <sub>Lumiere Education<br>Mentored by Fernanda-Maria Lugo-Bolanos, Brown University</sub>
 </td>
 <td valign="top">
-Does a classifier trained on ISIC read the lesion, or does it key off confounders like surgical ink, rulers, and hair?
+This research project investigates how AI models trained to detect skin cancer may rely on misleading visual artifacts, such as ink marks, rulers, or hair, rather than actual lesion characteristics, to evaluate and improve their diagnostic robustness.
 </td>
 </tr>
 <tr>
