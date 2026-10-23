@@ -46,7 +46,7 @@ Does a classifier trained on ISIC read the lesion, or does it key off confounder
 <sub>Student researcher<br>Data visualization</sub>
 </td>
 <td valign="top">
-I assist in developing a system that changes how data can be visualized.
+Interning at CSAIL, where I am assisting in the development of an advanced experimental data analysis tool for researchers.
 </td>
 </tr>
 </table>
@@ -62,9 +62,3 @@ hardware    FTC · VEX V5 · CAD
 ```
 
 I'm open to research collaborations and AI/ML internships: [aggarw.vyom@gmail.com](mailto:aggarw.vyom@gmail.com)
-
-<div align="center">
-
-*In simulation, gravity is just a line of code. On the pad, it's an unforgiving arbiter of math.*
-
-</div>
