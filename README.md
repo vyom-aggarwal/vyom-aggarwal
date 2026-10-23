@@ -6,8 +6,6 @@ DS/ML research at MIT CSAIL and UC Santa Cruz · [Portfolio](https://vyom-aggarw
 
 I apply AI and machine learning to engineering problems, mostly in mechatronics and aerospace. I care about the layer underneath: the simulation, mathematics, and control that decide whether a result means anything.
 
-A model that scores well on a benchmark and a model I would trust to run a physical system are different objects. I work in the gap between them.
-
 I'm a sophomore at River Islands High School, dual-enrolled at San Joaquin Delta College through its Early College Pathway program.
 
 ## Research
