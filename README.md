@@ -1,62 +1,90 @@
-<img src="profile-header.svg" width="100%" alt="Vyom Aggarwal: aerospace, robotics, machine learning" />
 
-DS/ML research at MIT CSAIL and UC Santa Cruz · [Portfolio](https://vyom-aggarwal.github.io/) · [LinkedIn](https://www.linkedin.com/in/vyom-aggarwal-681764313/) · [Email](mailto:aggarw.vyom@gmail.com)
+<img src="profile-header.svg" width="100%" alt="Vyom Aggarwal — aerospace, robotics, and machine learning" />
 
-## About
+<p align="center">
+  <a href="https://vyom-aggarwal.github.io/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/vyom-aggarwal-681764313/">LinkedIn</a> ·
+  <a href="mailto:aggarw.vyom@gmail.com">Email</a>
+</p>
 
-I apply AI and machine learning to engineering problems, mostly in mechatronics and aerospace. I care about the layer underneath: the simulation, mathematics, and control that decide whether a result means anything.
+# Vyom Aggarwal
 
-I'm a sophomore at River Islands High School, dual-enrolled at San Joaquin Delta College through its Early College Pathway program.
+**Engineering through simulation, mathematics, and machine learning.**
 
-## Research
+I'm a sophomore at River Islands High School, dual-enrolled at
+San Joaquin Delta College through its Early College Pathway program.
 
-<table width="100%">
-<tr>
-<td width="27%" valign="top">
-<b><a href="https://github.com/vyom-aggarwal/oberth-efficiency-atlas">Oberth Efficiency Atlas</a></b><br>
-<sub>Independent research<br>Aerospace</sub>
-</td>
-<td valign="top">
-An instantaneous burn at periapsis gets the full Oberth benefit. A real engine burns for minutes to months and keeps only part of it. I measure how much, as η = B<sub>finite</sub> / B<sub>imp</sub>, across six bodies and several propulsion technologies, using a 135,720-run dimensionless sweep. The burn parameter Π = t<sub>b</sub> / τ organizes the results along a near-universal curve: half-efficiency falls at Π ≈ 10–40, and a centered prograde burn loses at most about Π²/96 of its Δv. The repo includes an interactive explorer.
-</td>
-</tr>
-<tr>
-<td valign="top">
-<b><a href="https://github.com/vyom-aggarwal/fault-recovery-quadruped-rl">Fault Recovery in RL Locomotion</a></b><br>
-<sub>UC Santa Cruz AIEA Lab<br>Robotics</sub>
-</td>
-<td valign="top">
-This research project develops a reinforcement learning system that enables quadruped robots to maintain stable locomotion despite motor or joint failures by autonomously adapting their gait patterns and timing to changing terrain and damaged actuators.
-</td>
-</tr>
-<tr>
-<td valign="top">
-<b><a href="https://github.com/vyom-aggarwal/skin-lesion-shortcut-learning">Shortcut Learning in Skin Lesion Classifiers</a></b><br>
-<sub>Lumiere Education<br>Mentored by Fernanda-Maria Lugo-Bolanos, Brown University</sub>
-</td>
-<td valign="top">
-This research project investigates how AI models trained to detect skin cancer may rely on misleading visual artifacts, such as ink marks, rulers, or hair, rather than actual lesion characteristics, to evaluate and improve their diagnostic robustness.
-</td>
-</tr>
-<tr>
-<td valign="top">
-<b>MIT CSAIL</b><br>
-<sub>Student researcher<br>Data visualization</sub>
-</td>
-<td valign="top">
-Interning at CSAIL, where I am assisting in the development of an AI-powered platform developed to help people explore complex information by organizing data into interactive semantic maps, revealing hidden connections, and discovering meaningful patterns. It combines embeddings, specialized AI agents, and collaborative workflows to turn fragmented knowledge into actionable insights across fields such as science, healthcare, finance, law, and education.
-</td>
-</tr>
-</table>
+I build computational systems to investigate engineering problems —
+from finite-burn spacecraft trajectories to fault-tolerant robotic control
+and machine learning models that need to work for the right reasons.
 
-## Stack
+My interests lie at the intersection of **aerospace, robotics, and AI**.
 
-```text
-languages   Python · TypeScript · JavaScript
-ml + sim    PyTorch · PyBullet · NumPy
-web         WebGL
-tools       Git · LaTeX
-hardware    FTC · VEX V5 · CAD
-```
+---
 
-I'm open to research collaborations and AI/ML internships: [aggarw.vyom@gmail.com](mailto:aggarw.vyom@gmail.com)
+## Research & Selected Projects
+
+### [01 — Oberth Efficiency Atlas](https://github.com/vyom-aggarwal/oberth-efficiency-atlas)
+**Computational Aerospace · Independent Research**
+
+How much of the Oberth effect survives when a spacecraft engine burns
+for a finite duration instead of instantaneously?
+
+A finite-burn flyby simulator and 135,720-run dimensionless parameter
+sweep investigate how burn duration affects energy efficiency across
+planetary and solar flyby scenarios and propulsion technologies.
+
+**Explore:** [Research & methodology](https://github.com/vyom-aggarwal/oberth-efficiency-atlas)
+
+### [02 — Fault Recovery in RL Locomotion](https://github.com/vyom-aggarwal/fault-tolerant-locomotion)
+**Robotics · UC Santa Cruz AIEA Lab**
+
+Can a quadruped robot recover from unexpected actuator and sensor faults
+without retraining its base locomotion policy?
+
+This project investigates online residual adaptation in PyBullet,
+using controlled fault injection and simulation-based evaluation.
+
+**Explore:** [Experiments & results](https://github.com/vyom-aggarwal/fault-tolerant-locomotion)
+
+### [03 — Shortcut Learning in Skin Lesion Classifiers](https://github.com/vyom-aggarwal/skin-lesion-shortcut-learning)
+**Machine Learning · Lumiere Education**
+
+Can a skin-lesion classifier rely on misleading image artifacts rather
+than clinically relevant visual features?
+
+This project evaluates model dependence on lesion regions versus
+background context through controlled image masking and changes in
+predicted probabilities.
+
+**Explore:** [Methods & experiments](https://github.com/vyom-aggarwal/skin-lesion-shortcut-learning)
+
+---
+
+## Research Experience
+
+**MIT CSAIL — Student Researcher**
+
+Contributing to an AI-powered platform for exploring complex information
+through interactive semantic maps, embeddings, and specialized AI agents.
+
+---
+
+## Technical Interests & Tools
+
+| Area | Technologies |
+|---|---|
+| Machine learning | PyTorch, NumPy |
+| Simulation & robotics | PyBullet, reinforcement learning |
+| Programming | Python, TypeScript, JavaScript |
+| Visualization | WebGL |
+| Engineering | CAD, FTC, VEX V5 |
+| Research | Experimental design, quantitative analysis, LaTeX |
+
+---
+
+## Connect
+
+Interested in research collaborations and AI/ML opportunities.
+
+**Email:** [aggarw.vyom@gmail.com](mailto:aggarw.vyom@gmail.com)
