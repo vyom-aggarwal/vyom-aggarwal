@@ -55,10 +55,24 @@ This research project investigates how AI models trained to detect skin cancer m
 
 ## Research Experience
 
-**MIT CSAIL — Student Researcher**
+### MIT CSAIL
+**Student Researcher**
 
-Contributing to an AI-powered platform for exploring complex information
-through interactive semantic maps, embeddings, and specialized AI agents.
+I am assisting in the development of an AI-powered platform developed to help people explore complex information by organizing data into interactive semantic maps, revealing hidden connections, and discovering meaningful patterns. It combines embeddings, specialized AI agents, and collaborative workflows to turn fragmented knowledge into actionable insights across fields such as science, healthcare, finance, law, and education.
+
+### UC Santa Cruz — AI Explainability and Accountability (AIEA) Lab
+**Researcher · Robotics & Reinforcement Learning**
+
+Developing a reinforcement learning system that enables quadruped robots to maintain stable locomotion despite motor or joint failures by autonomously adapting their gait patterns and timing to changing terrain and damaged actuators.
+
+[View Research Project](https://github.com/vyom-aggarwal/fault-tolerant-locomotion) · [AIEA Lab](https://aiea-lab.github.io/)
+
+### Lumiere Education
+**Researcher · Machine Learning & Medical AI**
+
+Investigating shortcut learning in skin-lesion classification models, evaluating whether models rely on clinically relevant lesion features or misleading visual artifacts such as hair, rulers, and ink markings.
+
+[View Research Project](https://github.com/vyom-aggarwal/skin-lesion-shortcut-learning)
 
 ---
 
