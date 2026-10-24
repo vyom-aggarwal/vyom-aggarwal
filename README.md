@@ -11,12 +11,9 @@
 
 **Engineering through simulation, mathematics, and machine learning.**
 
-I'm a sophomore at River Islands High School, dual-enrolled at
-San Joaquin Delta College through its Early College Pathway program.
+I'm a sophomore at River Islands High School, dual-enrolled at San Joaquin Delta College through its Early College Pathway program.
 
-I build computational systems to investigate engineering problems —
-from finite-burn spacecraft trajectories to fault-tolerant robotic control
-and machine learning models that need to work for the right reasons.
+I'm a student researcher and engineer interested in using mathematics, computation, and creative problem-solving to tackle challenging problems across disciplines. My work spans aerospace simulation, robotics, and machine learning, with a focus on building systems, testing ideas, and understanding why they work. I'm especially drawn to problems that require both rigorous analysis and practical engineering.
 
 My interests lie at the intersection of **aerospace, robotics, and AI**.
 
